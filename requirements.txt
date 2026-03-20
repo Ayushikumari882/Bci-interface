@@ -1,5 +1,6 @@
+flask
+flask-cors
 mne
 scikit-learn
-streamlit
 numpy
 matplotlib
